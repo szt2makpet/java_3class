@@ -6,6 +6,7 @@ public class Szemely {
     int szulnap = 0;
 
     public void printSzemely(){
+        System.out.printf("Név: %S %S %d %d %d", keresztnev , vezeteknev , szulev, szulhonap, szulnap);
 
     }
 
